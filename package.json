@@ -8,8 +8,8 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.19"
   },
-  "name": "lowdb-bookstore-assignment",
-  "version": "15.5.1",
+  "name": "bookstore-assignment",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "heroku open",
