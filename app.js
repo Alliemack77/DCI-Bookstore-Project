@@ -3,7 +3,7 @@ const session = require('express-session');
 const app = express();
 const port = process.env.PORT || 3000;
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://bookstoreUser2:mQQUamR9NukEtP5@cluster0.itfwp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://bookstoreUser2:mQQUamR9NukEtP5@cluster0.itfwp.mongodb.net/Bookstore-Project?retryWrites=true&w=majority', {
     useNewUrlParser: true, 
     useCreateIndex: true, 
     useUnifiedTopology: true
