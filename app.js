@@ -2,7 +2,7 @@ const express = require('express');
 const session = require('express-session');
 const app = express();
 const port = process.env.PORT || 3000;
-const hostName = '127.0.0.1';
+const hostName = 'afternoon-bastion-04394.herokuapp.com/';
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://127.0.0.1:27017/bookstoreDB', {
     useNewUrlParser: true, 
