@@ -9,7 +9,7 @@
     "mongoose": "^5.11.19"
   },
   "name": "lowdb-bookstore-assignment",
-  "version": "1.0.0",
+  "version": "15.5.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
